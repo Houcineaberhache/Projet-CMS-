@@ -7,7 +7,7 @@
 - Gestion des utilisateurs (clients et administrateurs).
 - Interface intuitive et adaptée aux besoins des gamers.
 
----
+--- 
 
 ## 🛠️ Instructions d'installation
 
